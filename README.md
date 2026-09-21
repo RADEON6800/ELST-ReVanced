@@ -35,6 +35,7 @@ PCとUSBデバッグを使う方法です。24時間の待機は不要です。
 ```
 adb install ELSTReVanced.apk
 ```
+apkは[Release](https://github.com/RADEON6800/ELST-ReVanced/releases)ページからダウンロードしてください。
 
 # PCブラウザ版について
 このアプリは簡易的な機能しかありません。フル機能を利用したい場合はChrome拡張機能版をご利用ください。
