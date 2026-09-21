@@ -33,7 +33,7 @@
 PCとUSBデバッグを使う方法です。24時間の待機は不要です。
 
 ```
-adb install ELSTReVanced.apl
+adb install ELSTReVanced.apk
 ```
 
 # PCブラウザ版について
