@@ -1,6 +1,8 @@
 # 空欄でも回答を送信可能、すべての回答が正解になります。学習支援用が目的です。
 
-
+# PCブラウザ版について
+このアプリは簡易的な機能しかありません。PCを持っていないなどの特別な理由がない限りはフル機能のChrome拡張機能版をご利用ください。
+https://github.com/um-ibedos/elst-cheat
 
 ## インストール方法(Android)
 
@@ -37,7 +39,5 @@ adb install ELSTReVanced.apk
 ```
 apkは[Release](https://github.com/RADEON6800/ELST-ReVanced/releases)ページからダウンロードしてください。
 
-# PCブラウザ版について
-このアプリは簡易的な機能しかありません。フル機能を利用したい場合はChrome拡張機能版をご利用ください。
-また、こちらの拡張機能はKiwi Browserでの動作確認が取れていませんので、PCでのご利用を推奨します。
-https://github.com/um-ibedos/elst-cheat
+## 注意
+このアプリは本家とパッケージ名が同一のため、併用できません。本家をアンインストールしてからインストールしてください。
