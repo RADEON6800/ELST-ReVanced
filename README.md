@@ -43,6 +43,6 @@ apkは[Release](https://github.com/RADEON6800/ELST-ReVanced/releases)ページ�
 このアプリは本家とパッケージ名が同一のため、併用できません。本家をアンインストールしてからインストールしてください。
 　
 
-## ビルド・導入手順
+## ビルド
 Android Studioでビルドします。
 依存関係の設定　`app/build.gradle` の `dependencies` に Xposed API を追加（必ず `compileOnly` にすること）
